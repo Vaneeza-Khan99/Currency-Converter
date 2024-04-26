@@ -1,0 +1,21 @@
+{
+  "name": "vk00-currency-converter",
+  "version": "1.0.2",
+  "description": "This is a simple currency converter",
+  "main": "index.js",
+  "type": "module",
+  "bin": "main.js",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vaneeza Khan",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.19",
+    "vk00-currency-converter": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
